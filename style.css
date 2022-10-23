@@ -1,0 +1,50 @@
+body {
+  background-color: #101820ff;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #fee715ff;
+}
+
+#gallery {
+  background-color: #fee715ff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+@media screen and (max-width: 800px) {
+  ul.socials {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+.socials {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.socials li {
+  margin: 0 10px;
+}
+
+.socials a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.socials a i {
+  font-size: 1.1rem;
+  transition: color 0.4s ease;
+}
+
+.socials a:hover i {
+  color: #fee715ff;
+}
