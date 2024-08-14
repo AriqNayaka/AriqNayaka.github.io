@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/AriqNayaka.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/AriqNayaka.github.io/static/js/main.bedf5cb3.js",
+    "main.js": "/AriqNayaka.github.io/static/js/main.89d35757.js",
     "static/js/453.1407b060.chunk.js": "/AriqNayaka.github.io/static/js/453.1407b060.chunk.js",
-    "static/media/logo.svg": "/AriqNayaka.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/AriqNayaka.github.io/index.html",
     "main.f855e6bc.css.map": "/AriqNayaka.github.io/static/css/main.f855e6bc.css.map",
-    "main.bedf5cb3.js.map": "/AriqNayaka.github.io/static/js/main.bedf5cb3.js.map",
+    "main.89d35757.js.map": "/AriqNayaka.github.io/static/js/main.89d35757.js.map",
     "453.1407b060.chunk.js.map": "/AriqNayaka.github.io/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.bedf5cb3.js"
+    "static/js/main.89d35757.js"
   ]
 }
